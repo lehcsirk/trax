@@ -1,0 +1,8 @@
+platform :ios, '12.1'
+
+target 'stats' do
+  use_frameworks!
+
+pod 'SwiftSoup'
+
+end

@@ -1,0 +1,6 @@
+framework module Pods_stats {
+  umbrella header "Pods-stats-umbrella.h"
+
+  export *
+  module * { export * }
+}
